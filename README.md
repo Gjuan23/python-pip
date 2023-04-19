@@ -9,6 +9,7 @@ python3 game.py
 ```sh
 git clone
 cd app
+python3 -m venv envgame
 source envgame/bin/activate
 pip install -r requirements.txt
 python3 main.py
